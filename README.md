@@ -1,9 +1,9 @@
-# DevX Studio (Beta)
+# DevX Go (Beta)
 
-DevX Studio is a **Python-powered UI builder** created using [Flet](https://flet.dev).  
+DevX Go is a **Python-powered UI builder** created using [Flet](https://flet.dev).  
 It allows users to **design applications without coding knowledge** by simply guiding the AI step-by-step.  
 
-This is the **first beta release** of DevX Studio.  
+This is the **first beta release** of DevX Go.  
 ⚠️ Expect bugs and slow loading on startup — these will be improved in later versions.  
 
 ---
@@ -12,7 +12,8 @@ This is the **first beta release** of DevX Studio.
 - Full UI built with Python(Flet GUI).  
 - Packaged into a **standalone EXE** (no dependencies needed).  
 - Cross-platform concept (designed for Windows, but source can be adapted).  
-- Users can edit, remix, and redistribute under the MIT License.  
+- Users can edit, remix, and redistribute under the MIT License.
+- Lets you create full working c++, java, python, ect programs... Though these features still upcoming
 
 ---
 
@@ -25,7 +26,7 @@ This is the **first beta release** of DevX Studio.
 ---
 
 ## 📦 Installation
-No setup needed! Just download the **`app.exe`** from the releases section and run it.  
+No setup needed! Just download the **`DevX Go.exe`** from the releases section and run it.  
 
 ---
 
